@@ -1,6 +1,6 @@
 /*
-Write a function called getKeys(obj) that iterates through the object and
-returns an array of the object's keys only.
+Write a function called getValues(obj) that iterates through the object and
+returns an array of the object's values only.
 */
 
 // Your code here 
