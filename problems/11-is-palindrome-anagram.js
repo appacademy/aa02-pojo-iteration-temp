@@ -9,7 +9,7 @@ forward.
 
 const isPalindromeAnagram = sentence => {
   // Your code here
-}
+};
 
 // console.log(isPalindromeAnagram('pop'));               // true;
 // console.log(isPalindromeAnagram('kayak'));             // true
