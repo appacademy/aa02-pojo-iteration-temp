@@ -5,7 +5,7 @@ is formatted such that the first element is the key and the second element is
 the value.
 */
 
-// Your code here 
+// Your code here
 
 // let bootcamp = {
 //   name: "App Academy",

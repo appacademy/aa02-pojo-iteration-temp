@@ -5,7 +5,7 @@ nested array is formatted such that the first element is the key and the second
 element is the sum of all the numbers in the array value.
 */
 
-// Your code here 
+// Your code here
 
 // let populations = {
 //   neighborhood1: [10, 1, 3, 6],

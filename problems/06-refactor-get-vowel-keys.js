@@ -1,6 +1,6 @@
 /*
 Given the function getVowelKeys(obj) below that iterates through an object and
-returns all values associated with keys that are vowels using Object.keys(),
+returns all values associated with keys that have vowels using Object.keys(),
 refactor the code to not use Object.keys() but still passes the test specs.
 
 Key point here is to note how there are multiple ways to iterate through an

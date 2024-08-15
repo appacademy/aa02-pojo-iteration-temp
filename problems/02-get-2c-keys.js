@@ -3,7 +3,7 @@ Write a function called get2CKeys(obj) that iterates through the object and
 returns an array of the object's keys that have values with at least 2 'c's.
 */
 
-// Your code here 
+// Your code here
 
 // const obj = {
 //   red: 'circle',

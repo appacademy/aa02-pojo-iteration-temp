@@ -5,7 +5,7 @@ the elements show up in the string as values.
 */
 
 function countElements(arr) {
-  // Your code here 
+  // Your code here
 }
 
 // console.log(countElements(
