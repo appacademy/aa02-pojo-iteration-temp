@@ -7,7 +7,7 @@ CHALLENGE: Can you do it with just one object?
 */
 
 function areAnagrams(word1, word2) {
-  // Your code here 
+  // Your code here
 }
 
 // console.log(areAnagrams("cat", "act"));          // true

@@ -3,7 +3,7 @@ Write a function called getValues(obj) that iterates through the object and
 returns an array of the object's values only.
 */
 
-// Your code here 
+// Your code here
 
 // const car = {
 //   make: 'Toyota',

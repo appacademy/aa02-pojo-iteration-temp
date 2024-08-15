@@ -4,7 +4,7 @@ common keys between the two input objects, obj1 and obj2.
 */
 
 function commonKeys(obj1, obj2) {
-  // Your code here 
+  // Your code here
 }
 
 // console.log(commonKeys(

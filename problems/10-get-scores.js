@@ -6,7 +6,7 @@ should be the value of the score key in the nested objects in the input array.
 */
 
 function getScores(arr) {
-  // Your code here 
+  // Your code here
 }
 
 // console.log(getScores([

@@ -5,7 +5,7 @@ the characters show up in the string as values.
 */
 
 function countCharacters(str) {
-  // Your code here 
+  // Your code here
 }
 
 // console.log(countCharacters('hello')); // => { h: 1, e: 1, l: 2, o: 1}

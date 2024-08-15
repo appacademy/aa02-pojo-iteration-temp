@@ -3,7 +3,7 @@ Write a function called getKeys(obj) that iterates through the object and
 returns an array of the object's keys only.
 */
 
-// Your code here 
+// Your code here
 
 // const obj = {
 //   first: "1",

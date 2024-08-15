@@ -8,7 +8,7 @@ forward.
 */
 
 const isPalindrome = sentence => {
-  // Your code here 
+  // Your code here
 }
 
 // console.log(isPalindrome('pop'));               // true;
